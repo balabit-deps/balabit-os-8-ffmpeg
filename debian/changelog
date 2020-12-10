@@ -1,3 +1,12 @@
+ffmpeg (7:4.2.4-1ubuntu0.1bb1) focal; urgency=medium
+
+  * debian/control: remove unnecessary dependencies
+  * debian: disable everything, LGPL v2.1.
+  * configure-bdp-minimal-mxe.sh: removed non-existent config flag.
+  * project: added helper scripts with minimal configuration for SDP.
+
+ -- Balabit Platform Team <devnull@dev.null>  Thu, 03 Dec 2020 17:52:50 +0100
+
 ffmpeg (7:4.2.4-1ubuntu0.1) focal-security; urgency=medium
 
   * SECURITY UPDATE: New upstream bugfix release.
