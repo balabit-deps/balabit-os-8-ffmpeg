@@ -1,3 +1,9 @@
+ffmpeg (7:4.2.7-0ubuntu0.1bb1) focal; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 11 Jun 2022 16:25:07 +0200
+
 ffmpeg (7:4.2.7-0ubuntu0.1) focal-security; urgency=medium
 
   * SECURITY UPDATE: New upstream bugfix release (LP: #1970674).
